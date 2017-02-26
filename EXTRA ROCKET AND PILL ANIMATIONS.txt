@@ -1,0 +1,2 @@
+So, i added grape's rocket and pills/sticky explosion animations, they'll help you out.
+BUT, if you dont want them, go to scripts and remove them (everything that has tf_weapon)

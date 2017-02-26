@@ -1,0 +1,6 @@
+So if you want a health cross, (like broeselhud's) youre gonna want to go to Customization/BroeselHealthCross. Here you have the files you need, 
+go ahead and open the scripts folder in this directory click once on HudAnimations_custom, then click on copy. Now youre gonna want to go backto your custom folder 
+where you have pineHUD installed, open pineHUD, next open scripts and paste HudAnimations_custom, WHEN IT ASKS YOU TO REPLACE, PRESS YES AND REPLACE THE FILE. 
+Now navigate back to your customization folder, open resource, ui, now copy hudhealthaccount, go back to pineHUD, open resource, open ui, and paste WHEN IT ASKS YOU TO REPLACE, PRESS YES AND REPLACE THE FILE.
+There, you have it installed, if you have any questions or do not comprehend, please add me on steam and ill help you out.
+-pineapple

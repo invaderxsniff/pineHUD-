@@ -1,0 +1,15 @@
+If you would like to use custom crosshairs, open your custom folder where you just installed pineHUD, open pinehud, now open scripts, there should be a folder called "Crosshairs" open that up:
+
+to enable the custom crosshair, just change the 0's to 1's and you are all set/
+
+"visible"	"0"		"visible"	"1"
+			->
+"enabled"	"0"		"enabled"	"1"
+
+to change the color you must be familiar with RGB, (stands for Red, Green, Blue) (go look it up), for example, if you want a red crosshair, change the variables to, "255 0 0 255", for green, "0 255 0 255", and for blue, "0 0 255 255". The last
+variable means opacity, so if you want a transparent crosshair yuou would type 0 (at the end), but for a fully visible crosshair you would type 255 at the end
+
+"fgcolor"	"255 255 255 255"	->		"fgcolor"	"0 255 0 255"    
+								(I recommend this, it makes it fully visible and green)
+
+IF you want to change your crosshair in game, press ALT+TAB, open your crosshairs folder in pinehud, make your changes, then when you are basck in game, type hud_reloadscheme in console.
